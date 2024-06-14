@@ -8,6 +8,9 @@ public class SpringBackEndCrudApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBackEndCrudApplication.class, args);
+		
+
+		System.out.println("Hello Word");
 	}
 
 }
